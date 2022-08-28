@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm " target="_blank">David</a> 
+<h1 align="center">Hi there, I'm David</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/star.gif" height="32"/></h1>
 <h3 align="center"> Frontend Developer. :rocket: :rocket: :rocket:</h3>
 
