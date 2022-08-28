@@ -9,7 +9,3 @@ Languages and Tools:
 <img src="https://img.icons8.com/fluency/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/react-native.png"/><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/typescript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/redux.png"/><img  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-shadow-tal-revivo.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/><img src="https://img.icons8.com/color/48/000000/webpack.png"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev420I)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev420I&theme=tokyonight)](https://git.io/streak-stats)
-
