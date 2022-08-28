@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">David</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/star.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/star.gif" height="18"/></h1>
 <h3 align="center"> Frontend Developer. :rocket: :rocket: :rocket:</h3>
 
 
