@@ -5,8 +5,6 @@
 
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 
-<iframe src="https://chromedino.com/joker/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
-<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
 
 Languages and Tools:
 
